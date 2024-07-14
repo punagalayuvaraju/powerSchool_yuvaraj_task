@@ -52,7 +52,7 @@ This is a full-stack application using the MEAN stack (MongoDB, Express.js, Angu
    ng serve
    ```
 
-   The FRONTEND server should now be running on `http://localhost:4200`.
+   The FRONTEND server should now be running on `http://localhost:4000`.
 
 ## Running the Project using docker-compose.yml
 
