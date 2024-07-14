@@ -51,7 +51,7 @@ export class SignUpComponent {
         sessionStorage.setItem('token', token);
         sessionStorage.setItem('user', JSON.stringify(userData));
         this.toasterService.successToaster('Successfully Registered...');
-        this.router.navigate(['/dashboard']);
+        this.router.navigate(['/login']);
       }
       this.spinnerService.hideSpinner();
     } catch (error: any) {
