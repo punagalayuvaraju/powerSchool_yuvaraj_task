@@ -1,0 +1,25 @@
+13/7/2024 0:44 | pwKn1tU4L4GWOBSvtw8bEv6rcT9O8f5Q | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 0:46 | g4ocp51jk2mbB93nscMA7oP9cB56jZoH | [error] | Method: POST | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {"title":"Complete project","createdDate":"2024-07-11T09:00:00Z","dueDate":"2024-07-12T09:00:00Z","status":"Scheduled","userId":"60d0fe4f5311236168a109ca"} | Error : Unauthorized
+13/7/2024 22:29 | KbKoJiiFiKQLrT1ZQfk0T7Kghgwv0FZs | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 22:35 | bQQfnytpDwCHt1SprFzL89pqtKopOMag | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 22:36 | UcCjvN8aAlHIUN6PBLPWQuyZSB7QTrMK | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:09 | aIFX5MtuEO6oJaby3JVuLbIRcikLlA2n | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:14 | E6Nu0VHk0pqbMSjnLlk2DhHQ8fy1FVoP | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:19 | mlghuwjjeVs5SAwGkg7ihmLMjbOQyfpQ | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:19 | eJZGczJFWJjNtiW6pMDPOWKE0ZuQ3PF9 | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:22 | Z91Sg8F2MuA0P03OC1c2Qbi9oPhYVZ6q | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:22 | IGJcdl88iRsZrWtws4L2UZJpOUhSPdmj | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:25 | eYwAQIu5ZHA4ISxCSXzkXYrr17OlBWz0 | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:26 | TGXydd623RqMWGDEVCWXBEmdeoYVHV3v | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:28 | 6pY1ozRlXqY82At6DH6J6FTp4nY8LCkd | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:28 | GXo3slCS9EqtGiSHz6zagnPtQGFTnE54 | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:30 | llMrlQZEbuuabTOgTarg8Qh8D4GCj6KC | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:31 | yzuBx99S1mdzOY250FEm2Z0241a1OhQ5 | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:31 | AlHwQmxgl49pZ0KXZoTsAXBlpohSVnMy | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:33 | AImyZ1mkmnajE2MNcuPJph2FbHvACO1C | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:34 | 8mHzpNO4lXpwTEVzGtV30P33uguTBx4b | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:34 | SWRs2OqR0MFCU4duHbGeUXksarOW5XFg | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:35 | EWb1drzcWCPgOqoLeiRlLVbC0CxsasXn | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:36 | mMG1tA2YpMYp5pE3m1npwL0KeCE1Z9zc | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:37 | Lulxq41VjlSXhcbgn3V9W6id3sbJQ4D0 | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized
+13/7/2024 23:37 | F1qvh4f46GdhMeFcQ5s7mtA2VmNI8u7X | [error] | Method: GET | Status: 401 | IP : ::1 | URL : http://localhost:3000/taskProj/v1/api/tasks | Request Body : {} | Error : Unauthorized

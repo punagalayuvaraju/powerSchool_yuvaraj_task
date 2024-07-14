@@ -1,0 +1,22 @@
+version: '3'
+services:
+  powerschool_frontend:
+    container_name: powerschool_frontend
+    build: FRONTEND/.
+    image: yuvarajbalaji/powerschool:FRONTEND
+    ports:
+      - "4000:4000"
+
+  powerschool_backend:
+    container_name: powerschool_backend
+    build: BACKEND/.
+    image: yuvarajbalaji/powerschool:BACKEND
+    restart: always
+    ports:
+      - "3000:3000"
+    env_file: BACKEND/.env
+
+# RUN Command: docker compose up -d --build
+# STOP Command: docker compose down --volumes
+
+

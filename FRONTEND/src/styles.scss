@@ -1,0 +1,63 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.dspFlx {
+    display: flex;
+}
+
+.jus-con-cen {
+    justify-content: center;
+}
+
+.jus-con-end {
+    justify-content: end;
+}
+
+.ali-itm-cen {
+    align-items: center;
+}
+
+.jus-con-space-even {
+    justify-content: space-evenly;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+.height-100 {
+    height: 100%;
+}
+
+.height-50 {
+    height: 50%;
+}
+
+.marg_left_2_perc {
+    margin-left: 2%;
+}
+
+.marg_rigt_2_perc {
+    margin-right: 2%;
+}
+
+.pad5Perc {
+    padding: 5%;
+}
+
+.width-100-px {
+    width: 100px;
+}
